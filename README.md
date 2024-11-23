@@ -7,7 +7,7 @@ Este curso proporciona una visión completa sobre la evolución de la tecnologí
 ### MÓDULO 1: La Evolución de La Tecnología
 Explora los hitos tecnológicos clave desde la invención de la imprenta hasta la revolución de la Web 1.0.
 
-[Accede al contenido del Módulo 1]
+[Accede al contenido del Módulo 1](https://github.com/SpatialWebAgency/Introduccion-a-la-Web-Espacial/blob/main/Material/Modulo%201/readme.md)
 
 ### MÓDULO 2: La Web 2.0, Sus Éxitos y Limitaciones
 Analiza el impacto y las limitaciones de la Web 2.0, así como las promesas de la Web 3.0 y las tecnologías semánticas.
