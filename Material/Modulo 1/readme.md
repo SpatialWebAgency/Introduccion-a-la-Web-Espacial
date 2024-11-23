@@ -24,9 +24,9 @@ ________________________________________
 ### Lección 3: Los efectos más destacados de la imprenta en el Renacimiento
 * **Descripción:** Continuación de la lección anterior, con un análisis más profundo.
 * [Video](https://archive.org/details/introduccion-web-espacial-m1/L3M1.mp4)
-* [Material]()
-* [Cuestionario]()
-* [Vocabulario]()
+* [Material]
+* [Cuestionario]
+* [Vocabulario]
 
 ### Lección 4: La línea de embalaje y la Revolución Industrial
 * **Descripción:** Explora el desarrollo de la línea de ensamblaje y su rol en la Revolución Industrial.
