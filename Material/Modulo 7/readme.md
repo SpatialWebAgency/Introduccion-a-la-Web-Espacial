@@ -7,42 +7,42 @@ ________________________________________
 ## Lecciones
 ### Lección 1: El Futuro de la Gobernanza de Inteligencia Artificial
 * **Descripción:** Introducción a los desafíos y las oportunidades que presenta la gobernanza de la IA en el futuro, con un enfoque en la Web Espacial.
-* [Video]
+* [Video](https://archive.org/details/introduccion-web-espacial-m7/L1M7.mp4)
 * [Material]
 * [Cuestionario]
 * [Vocabulario]
 
 ### Lección 2: ¿Dos caminos hacia la gobernanza de la IA?
 * **Descripción:** Exploración de las dos principales rutas hacia la gobernanza de la inteligencia artificial, sus beneficios y riesgos.
-* [Video]
+* [Video](https://archive.org/details/introduccion-web-espacial-m7/L2M7.mp4)
 * [Material]
 * [Cuestionario]
 * [Vocabulario]
 
 ### Lección 3: Las normas técnicas, la base de la sociedad moderna
 * **Descripción:** Análisis de cómo las normas técnicas han sido fundamentales en la construcción de la sociedad moderna, y su importancia en la IA y la Web Espacial.
-* [Video]
+* [Video](https://archive.org/details/introduccion-web-espacial-m7/L3M7.mp4)
 * [Material]
 * [Cuestionario]
 * [Vocabulario]
 
 ### Lección 4: Los estándares sociotécnicos de la Web Espacial
 * **Descripción:** Explicación de los estándares sociotécnicos específicos que permiten el desarrollo y la gobernanza de la Web Espacial.
-* [Video]
+* [Video](https://archive.org/details/introduccion-web-espacial-m7/L4M7.mp4)
 * [Material]
 * [Cuestionario]
 * [Vocabulario]
 
 ### Lección 5: Los estándares sociotécnicos de la Web Espacial parte 2
 * **Descripción:** Continuación de la lección anterior, profundizando en los aspectos más avanzados de los estándares sociotécnicos aplicados a la Web Espacial.
-* [Video]
+* [Video](https://archive.org/details/introduccion-web-espacial-m7/L5M7.mp4)
 * [Material]
 * [Cuestionario]
 * [Vocabulario]
 
 ### Lección 6: Los beneficios de los estándares sociotécnicos en la Web Espacial
 * **Descripción:** Discusión sobre cómo los estándares sociotécnicos contribuyen a la sostenibilidad, seguridad y gobernanza de la Web Espacial.
-* [Video]
+* [Video](https://archive.org/details/introduccion-web-espacial-m7/L6M7.mp4)
 * [Material]
 * [Cuestionario]
 * [Vocabulario]
