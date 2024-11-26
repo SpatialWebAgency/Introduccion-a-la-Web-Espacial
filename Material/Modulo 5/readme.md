@@ -7,35 +7,35 @@ ________________________________________
 ## Lecciones
 ### Lección 1: La stack Web 3: Soluciones, oportunidades y casos de uso
 * **Descripción:** Introducción a la stack de Web 3.0, sus beneficios y ejemplos de casos de uso en el mundo real.
-* [Video]
+* [Video](https://archive.org/details/introduccion-web-espacial-m5/L1M5.mp4)
 * [Material]
 * [Cuestionario]
 * [Vocabulario]
 
 ### Lección 2: Descripción general del stack de Web 3.0 y el protocolo HSTP
 * **Descripción:** Explicación de la estructura general de la stack de Web 3.0, incluyendo los componentes clave y el papel fundamental del protocolo HSTP.
-* [Video]
+* [Video](https://archive.org/details/introduccion-web-espacial-m5/L2M5.mp4)
 * [Material]
 * [Cuestionario]
 * [Vocabulario]
 
 ### Lección 3: La capa del interfaz: computación espacial
 * **Descripción:** Exploración de la capa de interfaz en Web 3.0 y el papel que juega la computación espacial en la creación de una web más interactiva y avanzada.
-* [Video]
+* [Video](https://archive.org/details/introduccion-web-espacial-m5/L3M5.mp4)
 * [Material]
 * [Cuestionario]
 * [Vocabulario]
 
 ### Lección 4: La capa del interfaz: computación espacial parte 2
 * **Descripción:** Continuación de la lección anterior, profundizando en las aplicaciones prácticas de la computación espacial en la Web 3.0.
-* [Video]
+* [Video](https://archive.org/details/introduccion-web-espacial-m5/L4M5.mp4)
 * [Material]
 * [Cuestionario]
 * [Vocabulario]
 
 ### Lección 5: Protocolo HSTP
 * **Descripción:** Profundización en el protocolo HSTP y su relevancia dentro de la stack de Web 3.0, detallando sus funciones y ventajas.
-* [Video]
+* [Video](https://archive.org/details/introduccion-web-espacial-m5/L5M5.mp4)
 * [Material]
 * [Cuestionario]
 * [Vocabulario]
