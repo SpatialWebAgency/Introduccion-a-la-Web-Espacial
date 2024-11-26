@@ -7,35 +7,35 @@ ________________________________________
 ## Lecciones
 ### Lección 1: HSTP, el protocolo de la Web Espacial
 * **Descripción:** Introducción al protocolo HSTP y su importancia dentro del desarrollo de la Web Espacial.
-* [Video]
+* [Video](https://archive.org/details/introduccion-web-espacial-m4/L1M4.mp4)
 * [Material]
 * [Cuestionario]
 * [Vocabulario]
 
 ### Lección 2: ¿Qué es el protocolo?
 * **Descripción:** Definición del concepto de "protocolo" en el contexto de la tecnología de redes y cómo HSTP lo redefine.
-* [Video]
+* [Video](https://archive.org/details/introduccion-web-espacial-m4/L2M4.mp4)
 * [Material]
 * [Cuestionario]
 * [Vocabulario]
 
 ### Lección 3: ¿Cómo funciona el protocolo espacial HSTP en la Web 3.0?
 * **Descripción:** Explicación de cómo el HSTP interactúa con los sistemas de la Web 3.0, mejorando la transferencia de datos y la seguridad.
-* [Video]
+* [Video](https://archive.org/details/introduccion-web-espacial-m4/L3M4.mp4)
 * [Material]
 * [Cuestionario]
 * [Vocabulario]
 
 ### Lección 4: ¿Cuáles son los beneficios claves del HSTP?
 * **Descripción:** Análisis de los beneficios clave del HSTP, incluyendo mayor eficiencia, seguridad y la habilitación de nuevas posibilidades para la Web Espacial.
-* [Video]
+* [Video](https://archive.org/details/introduccion-web-espacial-m4/L4M4.mp4)
 * [Material]
 * [Cuestionario]
 * [Vocabulario]
 
 ### Lección 5: HSTP parte 2
 * **Descripción:** Continuación de la lección anterior, profundizando en aplicaciones avanzadas y escenarios de uso del HSTP.
-* [Video]
+* [Video](https://archive.org/details/introduccion-web-espacial-m4/L5M4.mp4)
 * [Material]
 * [Cuestionario]
 * [Vocabulario]
