@@ -1,4 +1,4 @@
-# Examen del Módulo 1: La Evolución de la Tecnología
+# 📑Examen del Módulo 1: La Evolución de la Tecnología
 
 ¡Bienvenido al examen del Módulo 1! Responde las siguientes preguntas basadas en las lecciones del curso. 
 
@@ -44,6 +44,6 @@
 
 ---
 
-### **Instrucciones**    
+### 🔎**Instrucciones**    
 * Responde seleccionando la opción correcta para cada pregunta. 
-* Las respuestas correctas podran ser comprobadas en el archivo [**Respuestas**](https://github.com/SpatialWebAgency/Introduccion-a-la-Web-Espacial/blob/main/Material/Modulo%201/Respuestas%201.1.md) de este modulo.
+* Las respuestas correctas podran ser comprobadas en el archivo [**Respuestas 1.1**](https://github.com/SpatialWebAgency/Introduccion-a-la-Web-Espacial/blob/main/Material/Modulo%201/Respuestas%201.1.md) de este modulo.
