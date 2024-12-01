@@ -13,7 +13,6 @@ ________________________________________
 * 📖[Material](https://github.com/SpatialWebAgency/Introduccion-a-la-Web-Espacial/blob/main/Material/Modulo%201/L1M1/Material_1.1.pdf)
 * 📋[Cuestionario](https://github.com/SpatialWebAgency/Introduccion-a-la-Web-Espacial/blob/main/Material/Modulo%201/L1M1/CUESTIONARIO_1.1.pdf)
 * 🔎[Vocabulario](https://github.com/SpatialWebAgency/Introduccion-a-la-Web-Espacial/blob/main/Material/Modulo%201/L1M1/VOCABULARIO_1.1.pdf)
-* 📑[Evaluacion]()
 
 ### 📓Lección 2: Los efectos más destacados de la imprenta en el Renacimiento
 * **Descripción:** Aborda el impacto transformador de la imprenta durante el Renacimiento.
@@ -56,3 +55,7 @@ ________________________________________
 * 📖[Material](https://github.com/SpatialWebAgency/Introduccion-a-la-Web-Espacial/blob/main/Material/Modulo%201/L7M1/Introduccio_n1.7.pdf)
 * 📋[Cuestionario]
 * 🔎[Vocabulario]
+
+---
+
+## 📑[**Evaluación del Módulo**](https://github.com/SpatialWebAgency/Introduccion-a-la-Web-Espacial/blob/main/Material/Modulo%201/Examen_1.1.md)
