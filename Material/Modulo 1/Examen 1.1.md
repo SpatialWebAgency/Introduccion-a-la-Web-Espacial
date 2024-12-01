@@ -43,3 +43,7 @@
 - [ ] Principalmente a través de la creación de herramientas simples.  
 
 ---
+
+### **Instrucciones**    
+* Responde seleccionando la opción correcta para cada pregunta. 
+* Las respuestas correctas podran ser comprobadas en el archivo [**Respuestas**](https://github.com/SpatialWebAgency/Introduccion-a-la-Web-Espacial/blob/main/Material/Modulo%201/Respuestas%201.1.md) de este modulo.
